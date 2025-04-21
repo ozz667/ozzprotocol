@@ -714,7 +714,7 @@ TouchFling_Button.TextWrapped = true
 CMDBar.Name = "CMDBar"
 CMDBar.Parent = Game_Section
 CMDBar.AnchorPoint = Vector2.new(0.5, 0.5)
-CMDBar.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+CMDBar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 CMDBar.BackgroundTransparency = 0.300
 CMDBar.BorderColor3 = Color3.fromRGB(255, 0, 0)
 CMDBar.Position = UDim2.new(0.5, 0, 0, 350)
@@ -974,7 +974,7 @@ WalkSpeed_Button.TextWrapped = true
 
 WalkSpeed_Input.Name = "WalkSpeed_Input"
 WalkSpeed_Input.Parent = Character_Section
-WalkSpeed_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+WalkSpeed_Input.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 WalkSpeed_Input.BackgroundTransparency = 0.300
 WalkSpeed_Input.BorderColor3 = Color3.fromRGB(255, 0, 0)
 WalkSpeed_Input.Position = UDim2.new(0, 210, 0, 25)
@@ -1004,7 +1004,7 @@ ClearCheckpoint_Button.TextWrapped = true
 
 JumpPower_Input.Name = "JumpPower_Input"
 JumpPower_Input.Parent = Character_Section
-JumpPower_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+JumpPower_Input.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 JumpPower_Input.BackgroundTransparency = 0.300
 JumpPower_Input.BorderColor3 = Color3.fromRGB(255, 0, 0)
 JumpPower_Input.Position = UDim2.new(0, 210, 0, 75)
@@ -1079,7 +1079,7 @@ FlySpeed_Button.TextWrapped = true
 
 FlySpeed_Input.Name = "FlySpeed_Input"
 FlySpeed_Input.Parent = Character_Section
-FlySpeed_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+FlySpeed_Input.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 FlySpeed_Input.BackgroundTransparency = 0.300
 FlySpeed_Input.BorderColor3 = Color3.fromRGB(255, 0, 0)
 FlySpeed_Input.Position = UDim2.new(0, 210, 0, 125)
@@ -1130,7 +1130,7 @@ TargetImage.Image = "rbxassetid://10818605405"
 
 TargetName_Input.Name = "TargetName_Input"
 TargetName_Input.Parent = Target_Section
-TargetName_Input.BackgroundColor3 = Color3.fromRGB(0, 140, 140)
+TargetName_Input.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TargetName_Input.BackgroundTransparency = 0.300
 TargetName_Input.BorderColor3 = Color3.fromRGB(255, 0, 0)
 TargetName_Input.Position = UDim2.new(0, 150, 0, 30)
