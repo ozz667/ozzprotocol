@@ -1922,7 +1922,7 @@ Crown.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Crown.BorderSizePixel = 0
 Crown.Rotation = -20.000
 Crown.Size = UDim2.new(0, 75, 0, 75)
-Crown.Image = "https://github.com/ozz667/ozzprotocol/blob/main/Picsart_24-05-27_22-43-28-317.png"
+Crown.Image = "rbxassetid://76600174785938"
 Crown.ImageColor3 = Color3.fromRGB(255, 0, 0)
 
 Assets.Name = "Assets"
