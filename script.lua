@@ -395,7 +395,7 @@ Background.BorderColor3 = Color3.fromRGB(255, 0, 0)
 Background.Position = UDim2.new(0.5, 0, 0.5, 0)
 Background.Size = UDim2.new(0, 500, 0, 350)
 Background.ZIndex = 9
-Background.Image = "rbxassetid://159991693"
+Background.Image = "rbxassetid://94503872482802"
 Background.ImageColor3 = Color3.fromRGB(255, 0, 0)
 Background.ImageTransparency = 0.600
 Background.ScaleType = Enum.ScaleType.Tile
@@ -412,7 +412,7 @@ TitleBarLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TitleBarLabel.BorderSizePixel = 0
 TitleBarLabel.Size = UDim2.new(1, 0, 0, 30)
 TitleBarLabel.Font = Enum.Font.Unknown
-TitleBarLabel.Text = "Ozz Protocol >."
+TitleBarLabel.Text = "    Ozz Proтocol    "
 TitleBarLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
 TitleBarLabel.TextScaled = true
 TitleBarLabel.TextSize = 14.000
@@ -497,7 +497,7 @@ Animations_Section_Button.BorderSizePixel = 0
 Animations_Section_Button.Position = UDim2.new(0, 0, 0, 185)
 Animations_Section_Button.Size = UDim2.new(0, 105, 0, 30)
 Animations_Section_Button.Font = Enum.Font.Oswald
-Animations_Section_Button.Text = "Animations"
+Animations_Section_Button.Text = "Exploits"
 Animations_Section_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 Animations_Section_Button.TextScaled = true
 Animations_Section_Button.TextSize = 14.000
@@ -660,7 +660,7 @@ PotionDi_Button.BorderSizePixel = 0
 PotionDi_Button.Position = UDim2.new(0, 210, 0, 125)
 PotionDi_Button.Size = UDim2.new(0, 150, 0, 30)
 PotionDi_Button.Font = Enum.Font.Oswald
-PotionDi_Button.Text = "Potion dick"
+PotionDi_Button.Text = "Admin Tools"
 PotionDi_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 PotionDi_Button.TextScaled = true
 PotionDi_Button.TextSize = 14.000
@@ -937,7 +937,7 @@ Announce_Label.BorderSizePixel = 0
 Announce_Label.Position = UDim2.new(0, 25, 0, 150)
 Announce_Label.Size = UDim2.new(0, 350, 0, 150)
 Announce_Label.Font = Enum.Font.SourceSans
-Announce_Label.Text = loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/announce"))()
+Announce_Label.Text = loadstring(game:HttpGet("https://raw.githubusercontent.com/ozz667/ozzprotocol/refs/heads/main/announce"))()
 Announce_Label.TextColor3 = Color3.fromRGB(255, 0, 0)
 Announce_Label.TextSize = 24.000
 Announce_Label.TextWrapped = true
@@ -1371,7 +1371,7 @@ VampireAnim_Button.BorderSizePixel = 0
 VampireAnim_Button.Position = UDim2.new(0, 25, 0, 25)
 VampireAnim_Button.Size = UDim2.new(0, 150, 0, 30)
 VampireAnim_Button.Font = Enum.Font.Oswald
-VampireAnim_Button.Text = "Vampire"
+VampireAnim_Button.Text = "TPtool"
 VampireAnim_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 VampireAnim_Button.TextScaled = true
 VampireAnim_Button.TextSize = 14.000
@@ -1386,7 +1386,7 @@ HeroAnim_Button.BorderSizePixel = 0
 HeroAnim_Button.Position = UDim2.new(0, 210, 0, 25)
 HeroAnim_Button.Size = UDim2.new(0, 150, 0, 30)
 HeroAnim_Button.Font = Enum.Font.Oswald
-HeroAnim_Button.Text = "Hero"
+HeroAnim_Button.Text = "NoClip"
 HeroAnim_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 HeroAnim_Button.TextScaled = true
 HeroAnim_Button.TextSize = 14.000
@@ -1401,7 +1401,7 @@ ZombieClassicAnim_Button.BorderSizePixel = 0
 ZombieClassicAnim_Button.Position = UDim2.new(0, 25, 0, 75)
 ZombieClassicAnim_Button.Size = UDim2.new(0, 150, 0, 30)
 ZombieClassicAnim_Button.Font = Enum.Font.Oswald
-ZombieClassicAnim_Button.Text = "Zombie Classic"
+ZombieClassicAnim_Button.Text = "JerkTool"
 ZombieClassicAnim_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 ZombieClassicAnim_Button.TextScaled = true
 ZombieClassicAnim_Button.TextSize = 14.000
@@ -1416,7 +1416,7 @@ MageAnim_Button.BorderSizePixel = 0
 MageAnim_Button.Position = UDim2.new(0, 210, 0, 75)
 MageAnim_Button.Size = UDim2.new(0, 150, 0, 30)
 MageAnim_Button.Font = Enum.Font.Oswald
-MageAnim_Button.Text = "Mage"
+MageAnim_Button.Text = "FreeCam"
 MageAnim_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 MageAnim_Button.TextScaled = true
 MageAnim_Button.TextSize = 14.000
@@ -1819,7 +1819,7 @@ CMDX_Button.BorderSizePixel = 0
 CMDX_Button.Position = UDim2.new(0, 210, 0, 175)
 CMDX_Button.Size = UDim2.new(0, 150, 0, 30)
 CMDX_Button.Font = Enum.Font.Oswald
-CMDX_Button.Text = "CMDX"
+CMDX_Button.Text = "HUB XP"
 CMDX_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 CMDX_Button.TextScaled = true
 CMDX_Button.TextSize = 14.000
@@ -1849,7 +1849,7 @@ FreeEmotes_Button.BorderSizePixel = 0
 FreeEmotes_Button.Position = UDim2.new(0, 210, 0, 225)
 FreeEmotes_Button.Size = UDim2.new(0, 150, 0, 30)
 FreeEmotes_Button.Font = Enum.Font.Oswald
-FreeEmotes_Button.Text = "Free emotes"
+FreeEmotes_Button.Text = "Admin Tools"
 FreeEmotes_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 FreeEmotes_Button.TextScaled = true
 FreeEmotes_Button.TextSize = 14.000
@@ -1915,12 +1915,13 @@ Credits_Label.TextYAlignment = Enum.TextYAlignment.Top
 
 Crown.Name = "Crown"
 Crown.Parent = Background
-Crown.AnchorPoint = Vector2.new(0.300000012, 0.800000012)
+Crown.AnchorPoint = Vector2.new(0.5, 0)
+Crown.Position = UDim2.new(0.5, 0, 0, 0.8 - 70)
 Crown.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Crown.BackgroundTransparency = 1.000
 Crown.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Crown.BorderSizePixel = 0
-Crown.Rotation = -5.000
+Crown.Rotation = -0.000
 Crown.Size = UDim2.new(0, 75, 0, 75)
 Crown.Image = "rbxassetid://76600174785938"
 Crown.ImageColor3 = Color3.fromRGB(255, 0, 0)
@@ -2046,6 +2047,7 @@ UICornerOC.CornerRadius = UDim.new(1, 0)
 UICornerOC.Parent = OpenClose
 
 CreateToggle(AntiRagdoll_Button)
+CreateToggle(HeroAnim_Button)
 CreateToggle(PushAura_Button)
 CreateToggle(SpamMines_Button)
 CreateToggle(PotionFling_Button)
@@ -2090,9 +2092,8 @@ CreateClicker(WhitelistTarget_Button)
 CreateClicker(TeleportTarget_Button)
 
 CreateClicker(VampireAnim_Button)
-CreateClicker(HeroAnim_Button)
 CreateClicker(ZombieClassicAnim_Button)
-CreateClicker(MageAnim_Button)
+CreateToggle(MageAnim_Button)
 CreateClicker(GhostAnim_Button)
 CreateClicker(ElderAnim_Button)
 CreateClicker(LevitationAnim_Button)
@@ -2986,50 +2987,162 @@ end)
 --ANIMATIONS
 
 VampireAnim_Button.MouseButton1Click:Connect(function()
-	local Animate = plr.Character.Animate
-	Animate.Disabled = true
-	StopAnim()
-	Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=1083445855"
-	Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=1083450166"
-	Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=1083473930"
-	Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=1083462077"
-	Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=1083455352"
-	Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=1083439238"
-	Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=1083443587"
-	plr.Character.Humanoid:ChangeState(3)
-	Animate.Disabled = false
+    local player = game.Players.LocalPlayer
+    
+    -- Création de l'outil de téléportation
+    local TpTool = Instance.new("Tool")
+    TpTool.Name = "Teleport Tool"
+    TpTool.RequiresHandle = false
+    
+    -- Fonction de téléportation
+    TpTool.Activated:Connect(function()
+        local character = player.Character or player.CharacterAdded:Wait()
+        local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
+        
+        if humanoidRootPart then
+            -- Téléporte au point visé par la souris (+3 en Y pour éviter de tomber sous la map)
+            local mouse = player:GetMouse()
+            humanoidRootPart.CFrame = CFrame.new(
+                mouse.Hit.X, 
+                mouse.Hit.Y + 3, 
+                mouse.Hit.Z,
+                select(4, humanoidRootPart.CFrame:components())  -- Garde la même rotation
+            )
+        else
+            warn("HumanoidRootPart introuvable!")
+        end
+    end)
+    
+    -- Ajoute l'outil au backpack
+    local backpack = player:FindFirstChildOfClass("Backpack")
+    if backpack then
+        TpTool.Parent = backpack
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Ozz Protocol",
+            Text = "Outil de téléportation ajouté à votre inventaire!",
+            Duration = 5
+        })
+    else
+        warn("Backpack introuvable!")
+    end
 end)
+
+local NoclipEnabled = false
+local NoclipConnection = nil
 
 HeroAnim_Button.MouseButton1Click:Connect(function()
-	local Animate = plr.Character.Animate
-	Animate.Disabled = true
-	StopAnim()
-	Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=616111295"
-	Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=616113536"
-	Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=616122287"
-	Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=616117076"
-	Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=616115533"
-	Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=616104706"
-	Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=616108001"
-	plr.Character.Humanoid:ChangeState(3)
-	Animate.Disabled = false
+    -- Change la couleur du bouton (toggle visuel)
+    ChangeToggleColor(HeroAnim_Button)
+    
+    -- Active/Désactive le noclip
+    NoclipEnabled = not NoclipEnabled
+    
+    if NoclipEnabled then
+        -- Activation du noclip
+        local function NoclipLoop()
+            if plr.Character then
+                for _, child in pairs(plr.Character:GetDescendants()) do
+                    if child:IsA("BasePart") and child.CanCollide then
+                        child.CanCollide = false
+                    end
+                end
+            end
+        end
+        
+        NoclipConnection = game:GetService("RunService").Stepped:Connect(NoclipLoop)
+        SendNotify("Noclip", "Noclip activé!")
+    else
+        -- Désactivation du noclip
+        if NoclipConnection then
+            NoclipConnection:Disconnect()
+        end
+        
+        -- Réactive les collisions
+        if plr.Character then
+            for _, child in pairs(plr.Character:GetDescendants()) do
+                if child:IsA("BasePart") then
+                    child.CanCollide = true
+                end
+            end
+        end
+        SendNotify("Noclip", "Noclip désactivé!")
+    end
 end)
-
 ZombieClassicAnim_Button.MouseButton1Click:Connect(function()
-	local Animate = plr.Character.Animate
-	Animate.Disabled = true
-	StopAnim()
-	Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=616158929"
-	Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=616160636"
-	Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=616168032"
-	Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=616163682"
-	Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=616161997"
-	Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=616156119"
-	Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=616157476"
-	plr.Character.Humanoid:ChangeState(3)
-	Animate.Disabled = false
-end)
+    local player = game.Players.LocalPlayer
+    local character = player.Character or player.CharacterAdded:Wait()
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    local backpack = player:FindFirstChildOfClass("Backpack")
+    
+    if not humanoid or not backpack then
+        warn("Humanoid ou Backpack introuvable!")
+        return
+    end
 
+    -- Création de l'outil
+    local tool = Instance.new("Tool")
+    tool.Name = "Jerk Off"
+    tool.ToolTip = "in the stripped club. straight up \"jorking it\"..."
+    tool.RequiresHandle = false
+
+    -- Variables pour l'animation
+    local jorkin = false
+    local track = nil
+    local isR15 = humanoid.RigType == Enum.HumanoidRigType.R15
+
+    -- Fonction pour arrêter l'animation
+    local function stopTomfoolery()
+        jorkin = false
+        if track then
+            track:Stop()
+            track = nil
+        end
+    end
+
+    -- Connexions des événements
+    tool.Equipped:Connect(function()
+        jorkin = true
+    end)
+    
+    tool.Unequipped:Connect(stopTomfoolery)
+    humanoid.Died:Connect(stopTomfoolery)
+
+    -- Boucle principale de l'animation
+    tool.Activated:Connect(function()
+        if not jorkin then return end
+
+        if not track then
+            local anim = Instance.new("Animation")
+            anim.AnimationId = isR15 and "rbxassetid://698251653" or "rbxassetid://72042024"
+            track = humanoid:LoadAnimation(anim)
+        end
+
+        track:Play()
+        track:AdjustSpeed(isR15 and 0.7 or 0.65)
+        track.TimePosition = 0.6
+        
+        wait(0.1)
+        
+        while track and track.TimePosition < (isR15 and 0.7 or 0.65) do
+            wait(0.1)
+        end
+        
+        if track then
+            track:Stop()
+            track = nil
+        end
+    end)
+
+    -- Ajout de l'outil au backpack
+    tool.Parent = backpack
+    
+    -- Notification
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Ozz Protocol",
+        Text = "Outil 'Jerk Off' ajouté à votre inventaire!",
+        Duration = 5
+    })
+end)
 MageAnim_Button.MouseButton1Click:Connect(function()
 	local Animate = plr.Character.Animate
 	Animate.Disabled = true
@@ -3410,7 +3523,8 @@ InfYield_Button.MouseButton1Click:Connect(function()
 end)
 
 CMDX_Button.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",true))()
+	script_key="hMhsqilvVWmcqkkzmRoiZjlvngnfTeKx";
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/85a65792896f1091f738a32ace840d51.lua",true))()
 end)
 
 Explode_Button.MouseButton1Click:Connect(function()
@@ -3427,11 +3541,34 @@ Explode_Button.MouseButton1Click:Connect(function()
 end)
 
 FreeEmotes_Button.MouseButton1Click:Connect(function()
-	if not FreeEmotesEnabled then
-		FreeEmotesEnabled = true
-		SendNotify("Ozz Protocol","Loading free emotes.\nCredits: Gi#7331")
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/AllEmotes"))()
-	end
+    local player = game.Players.LocalPlayer  -- Récupère le joueur local
+    local backpack = player:FindFirstChildOfClass("Backpack")  -- Obtient le Backpack
+
+    if not backpack then
+        warn("Backpack introuvable !")
+        return
+    end
+
+    -- Fonction pour copier les outils depuis un emplacement (Lighting/ReplicatedStorage)
+    local function copyTools(parent)
+        for _, child in ipairs(parent:GetDescendants()) do  -- Parcourt tous les enfants
+            if child:IsA("Tool") or child:IsA("HopperBin") then
+                local clone = child:Clone()
+                clone.Parent = backpack  -- Ajoute l'outil au Backpack
+            end
+        end
+    end
+
+    -- Copie depuis Lighting et ReplicatedStorage
+    copyTools(game:GetService("Lighting"))
+    copyTools(game:GetService("ReplicatedStorage"))
+
+    -- Notification de confirmation
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Ozz Protocol",
+        Text = "Outils copiés depuis Lighting & ReplicatedStorage !",
+        Duration = 5
+    })
 end)
 
 Rejoin_Button.MouseButton1Click:Connect(function()
