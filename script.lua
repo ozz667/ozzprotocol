@@ -922,7 +922,7 @@ Welcome_Label.BorderSizePixel = 0
 Welcome_Label.Position = UDim2.new(0, 150, 0, 25)
 Welcome_Label.Size = UDim2.new(0, 200, 0, 100)
 Welcome_Label.Font = Enum.Font.SourceSans
-Welcome_Label.Text = ("¡Hello @"..plr.Name.."!\nPress [B] to open/close gui.")
+Welcome_Label.Text = ("Welcome @"..plr.Name.."Press [B] to open/close gui.")
 Welcome_Label.TextColor3 = Color3.fromRGB(255, 0, 0)
 Welcome_Label.TextSize = 24.000
 Welcome_Label.TextWrapped = true
@@ -1922,7 +1922,7 @@ Crown.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Crown.BorderSizePixel = 0
 Crown.Rotation = -20.000
 Crown.Size = UDim2.new(0, 75, 0, 75)
-Crown.Image = "rbxassetid://12298407748"
+Crown.Image = "rbxassetid://89846413291291"
 Crown.ImageColor3 = Color3.fromRGB(255, 0, 0)
 
 Assets.Name = "Assets"
