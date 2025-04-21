@@ -1906,7 +1906,7 @@ Credits_Label.BorderSizePixel = 0
 Credits_Label.Position = UDim2.new(0, 25, 0, 150)
 Credits_Label.Size = UDim2.new(0, 350, 0, 150)
 Credits_Label.Font = Enum.Font.SourceSans
-Credits_Label.Text = "Made by: MalwareHUB \nDiscord: system_calix\nVersion: "..version
+Credits_Label.Text = "Made by: Ozz \nDiscord: system_calix\nVersion: "..version
 Credits_Label.TextColor3 = Color3.fromRGB(255, 0, 0)
 Credits_Label.TextSize = 24.000
 Credits_Label.TextWrapped = true
@@ -1922,7 +1922,7 @@ Crown.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Crown.BorderSizePixel = 0
 Crown.Rotation = -20.000
 Crown.Size = UDim2.new(0, 75, 0, 75)
-Crown.Image = "rbxassetid://89846413291291"
+Crown.Image = "https://github.com/ozz667/ozzprotocol/blob/main/Picsart_24-05-27_22-43-28-317.png"
 Crown.ImageColor3 = Color3.fromRGB(255, 0, 0)
 
 Assets.Name = "Assets"
